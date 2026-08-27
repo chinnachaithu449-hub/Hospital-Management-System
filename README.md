@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225230087
+# Name:chaithanya G
+# Date:28/08/2026
 
 
 # AIM:
@@ -42,6 +42,8 @@ Specifying the context and requirements of a system
 
 
 
+<img width="941" height="881" alt="image" src="https://github.com/user-attachments/assets/91fd9d76-e4b4-4d40-9406-d3faee589a01" />
+
 
 
 
@@ -59,6 +61,7 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+<img width="885" height="719" alt="image" src="https://github.com/user-attachments/assets/fea1b8a4-ec04-4027-81e8-f8d115472957" />
 
 
 
@@ -69,6 +72,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1030" height="585" alt="image" src="https://github.com/user-attachments/assets/1603c2b2-3c4c-462d-a9f8-1dce72026fb1" />
 
 
 # PACKAGE DIAGRAM:
@@ -81,6 +85,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="862" height="476" alt="image" src="https://github.com/user-attachments/assets/c52cea1a-1985-4319-a4fa-7faf5b97aeb2" />
 
 
 
@@ -99,6 +104,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="433" height="864" alt="image" src="https://github.com/user-attachments/assets/3ae9e3da-3723-41dc-8068-dcf7bb6b5994" />
 
 
 
@@ -120,6 +126,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="904" height="858" alt="image" src="https://github.com/user-attachments/assets/ab996796-6cc9-4f6e-b2a6-2379359948d2" />
 
 
 
